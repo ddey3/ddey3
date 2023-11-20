@@ -9,4 +9,4 @@ I'm a passionate researcher based in New York City. I'm always eager to learn ne
 ## 🛠 Skills 
 Excel, MySQL, and Tableau
 ## 🌐 Connect with me:
-<a href="https://linkedin.com/in/deboprio-dey-8bb146127"><img align="left" alt="YourName's LinkedIn" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" /></a>
+"https://linkedin.com/in/deboprio-dey-8bb146127"
